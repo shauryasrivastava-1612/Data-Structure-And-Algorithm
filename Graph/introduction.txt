@@ -50,3 +50,14 @@
         g) Robot planning: Vertices represent states the robot can be in and the edges the possible transitions between the states. Such graph plans are used, for example, in planning paths for autonomous vehicles.
         h) Dependencies in a software project (or any other type of project) can be seen as graph and generating a sequence to solve all tasks before dependents is a standard graph topological sorting algorithm.
         i) For optimizing the cost of connecting all locations of a network. For example, minimizing wire length in a wired network to make sure all devices are connected is a standard Graph problem called Minimum Spanning Tree.
+
+    1.7) Advantages of graphs -:
+        a) Graphs can be used to model and analyze complex systems and relationships.
+        b) They are useful for visualizing and understanding data.
+        c) Graph algorithms are widely used in computer science and other fields, such as social network analysis, logistics, and transportation.
+        d) Graphs can be used to represent a wide range of data types, including social networks, road networks, and the internet.
+    1.8) Disadvantages of graphs -:
+        a) Large graphs can be difficult to visualize and analyze.
+        b) Graph algorithms can be computationally expensive, especially for large graphs.
+        c) The interpretation of graph results can be subjective and may require domain-specific knowledge.
+        d) Graphs can be susceptible to noise and outliers, which can impact the accuracy of analysis results.

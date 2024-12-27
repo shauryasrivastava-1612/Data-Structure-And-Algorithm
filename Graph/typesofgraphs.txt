@@ -1,0 +1,29 @@
+1) Types of Graphs with Examples
+    a) Undirected Graphs
+    b) Directed Graphs
+    c) Weighted Graphs
+    d) Unweighted Graphs
+    e) Complete Graphs
+    f) Bipartite Graphs
+    g) Trees
+    h) Cycles
+    i) Sparse Graphs
+    j) Dense Graphs
+    k) Finite Graphs
+    l) Infinite Graph
+    m) Trivial Graph
+    n) Simple Graph (*)
+    o) Multi Graph (*)
+    p) Null Graph
+    q) Complete Graph
+    r) Pseudo Graph (*)
+    s) Regular Graph
+    t) Bipartite Graph
+    u) Labeled Graph
+    v) Digraph Graph
+    w) Subgraph
+        i) Vertex disjoint subgraph
+        ii) Edge disjoint subgraph
+        iii) Spanning Subgraph (*)
+    x) Connected or Disconnected Graph
+    y) Cyclic Graph
