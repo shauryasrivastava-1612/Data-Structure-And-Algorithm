@@ -1,0 +1,52 @@
+1) Introduction to Graph Data Structure :
+
+
+    1.1)  Components of Graph Data Structure -:
+        a) Vertices
+        b) Edges
+
+    1.2) Types Of Graphs in Data Structure and Algorithms -:
+        a) Null Graph
+        b) Tivial Graph
+        c) Undirected Graph
+        d) Directed Graph
+        e) Connected Graph 
+        f) Disconnected Graph 
+        g) Regular Graph 
+        h) Complete Graph 
+        i) Cycle Graph 
+        j) Cyclic Graph 
+        k) Directed Acyclic Graph 
+        l) Bipartite Graph 
+        m) Weighted Graph
+
+    1.3) Representation of Graph Data Structure -:
+        a) Adjacency Matrix
+        b) Adjacency List
+
+    1.4) Comparison between Adjacency Matrix and Adjacency List -:
+        Action	           Adjacency Matrix	Adjacency List
+        Adding Edge	          O(1)	          O(1)
+        Removing an edge	  O(1)	          O(N)
+        Initializing	      O(N*N)	      O(N)
+
+    1.5) Basic Operations on Graph Data Structure -:
+        a) Insertion or Deletion of Nodes in the graph
+            i) Add and Remove vertex in Adjacency List representation of Graph
+            ii) Add and Remove vertex in Adjacency Matrix representation of Graph
+        b) Insertion or Deletion of Edges in the graph
+            i) Add and Remove Edge in Adjacency List representation of a Graph
+            ii) Add and Remove Edge in Adjacency Matrix representation of a Graph
+        c) Searching in Graph Data Structure- Search an entity in the graph.
+        d) Traversal of Graph Data Structure- Traversing all the nodes in the graph.
+
+    1.6) Real-Life Applications of Graph Data Structure -:
+        a) If we recall all the previous data structures that we have studied like array, linked list, tree, etc. All these had some restrictions on structure (mostly linear and tree hierarchical which means no loops). Graph allows random connections between nodes which is useful in many real world problems where do have restrictions of previous data structures.
+        b) Used heavily in social networks. Everyone on the network is a vertex (or node) of the graph and if connected, then there is an edge. Now imagine all the features that you see, mutual friends, people that follow you, etc can seen as graph problems.
+        c) Used to represent the topology of computer networks, such as the connections between routers and switches.
+        d) Used to represent the connections between different places in a transportation network, such as roads and airports.
+        e) Neural Networks: Vertices represent neurons and edges represent the synapses between them. Neural networks are used to understand how our brain works and how connections change when we learn. The human brain has about 10^11 neurons and close to 10^15 synapses.
+        f) Compilers: Graph Data Structure is used extensively in compilers. They can be used for type inference, for so-called data flow analysis, register allocation, and many other purposes. They are also used in specialized compilers, such as query optimization in database languages.
+        g) Robot planning: Vertices represent states the robot can be in and the edges the possible transitions between the states. Such graph plans are used, for example, in planning paths for autonomous vehicles.
+        h) Dependencies in a software project (or any other type of project) can be seen as graph and generating a sequence to solve all tasks before dependents is a standard graph topological sorting algorithm.
+        i) For optimizing the cost of connecting all locations of a network. For example, minimizing wire length in a wired network to make sure all devices are connected is a standard Graph problem called Minimum Spanning Tree.
